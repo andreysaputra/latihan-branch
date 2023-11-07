@@ -1,3 +1,3 @@
-# latihan-branch
+# Ini adalah repository untuk latihan membuat branch
 
 test
