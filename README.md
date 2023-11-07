@@ -1,3 +1,3 @@
 # Ini adalah repository untuk latihan membuat branch
 
-test
+Belajar GitHub di Dicoding itu seru!
